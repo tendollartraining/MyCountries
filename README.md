@@ -8,6 +8,9 @@ of a site on the newest Microsrosoft Web development stack.
 The purpose of the Fork is take an in-depth look at the new technologies and to provide training to those
 who are looking at expanding their knowledge by seeing a step-by-step analysis of the frameworks involved. The new class will be offered on Udemy in the fall of 2015.
 
+Not yet sure about MVC 6. Here is a FREE 4 hour class on MVC 5- not a bad place to start:
+https://www.udemy.com/learn-web-development-foundations-with-aspnet-mvc-5/
+
 * ASP.NET 5
 * MVC 6
 * AngularJS 1.3
