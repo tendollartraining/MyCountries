@@ -1,6 +1,6 @@
-﻿#My Countries#
+﻿#.net Web Development#
 
-This repository contains an early example of using ASP.NET 5 (e.g. vNext) and related technologies
+This repository contains an early example of using ASP.NET 5, MVC 6 and related technologies
 to build a working website. The example allows users to add a list of countries visited and
 share those countries with other users. Additional features will be added to make it a more complete example
 of a site on the newest Microsrosoft Web development stack.
