@@ -1,4 +1,4 @@
-﻿#.net Web Development#
+﻿#MVC 6 .net Web Development#
 
 This repository contains an early example of using ASP.NET 5, MVC 6 and related technologies
 to build a working website. The example allows users to add a list of countries visited and
