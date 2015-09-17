@@ -6,7 +6,7 @@ share those countries with other users. Additional features will be added to mak
 of a site on the newest Microsrosoft Web development stack.
 
 The purpose of the Fork is take an in-depth look at the new technologies and to provide training to those
-who are looking at expanding theie knowledge by seeing a step-by-step. Yhe new class will be offered on Udemy in the fall of 2015.
+who are looking at expanding their knowledge by seeing a step-by-step analysis of the frameworks involved. The new class will be offered on Udemy in the fall of 2015.
 
 * ASP.NET 5
 * MVC 6
