@@ -1,8 +1,8 @@
 ﻿#MVC 6 .net Web Development#
 
 This repository contains an early example of using ASP.NET 5, MVC 6 and related technologies
-to build a working website. The example allows users to add a list of countries visited and
-share those countries with other users. Additional features will be added to make it a more complete example
+to build a working website. The example starts by showing how you can bring together the frameworks listed below and end up
+with a working example of a Travel Diary. Henceforth, Additional features will be added to make it a more complete example
 of a site on the newest Microsrosoft Web development stack.
 
 The purpose of the Fork is take an in-depth look at the new technologies and to provide training to those
