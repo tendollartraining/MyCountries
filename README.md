@@ -26,5 +26,5 @@ Current version: ASP.NET 5 Beta 7
 
 Screenshot:
 
-![Screenshot](main.png)
+![Screenshot](screenshot.jpg)
 
