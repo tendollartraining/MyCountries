@@ -11,6 +11,9 @@ who are looking at expanding their knowledge by seeing a step-by-step analysis o
 Not yet sure about MVC 6. Here is a FREE 4 hour class on MVC 5- not a bad place to start:
 https://www.udemy.com/learn-web-development-foundations-with-aspnet-mvc-5/
 
+We will do a case study on this app in the next class:
+http://mkcountries1.azurewebsites.net/
+
 * ASP.NET 5
 * MVC 6
 * AngularJS 1.3
